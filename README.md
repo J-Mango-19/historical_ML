@@ -9,5 +9,5 @@ Set custom hyperparameters on the command line using
 -e to adjust max epochs
 -g to graph the loss against the number of training iterations
 
-example usage: python Adaline_GD_normalized.py -e 500 -lr 0.05
+example usage: python Adaline_GD_normalized.py -e 500 -lr 0.05 -g
 
